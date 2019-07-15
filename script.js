@@ -60,110 +60,110 @@ let resturant = {
     },
 
     starters: {
-        menu1: {
+        menu: {
             food: "supreme Nacho",
             price: "500"
         },
-        menu2: {
+        menu: {
             "Food": "spicy Mexican Wings",
             "price": "750"
         },
-        menu3: {
+        menu: {
             "Food": "honey Mustard Wings",
             "price": "750"
         },
-        menu4: {
+        menu: {
             "Food": "lahori Finger Fish",
             "price": "500"
         },
-        menu5: {
+        menu: {
             "Food": "cheesy Fries",
             "price": "400"
         },
-        menu6: {
+        menu: {
             "Food": "masala Fries",
             "price": "900"
         },
-        menu7: {
+        menu: {
             "Food": "kolachi House Prawn",
             "price": "300"
         }
     },
 
     salads: {
-        menu1: {
+        menu: {
             "salad": "fresh Green Salad",
             "price": "700"
         },
-        menu2: {
+        menu: {
             "salad": "hummus",
             "price": "600"
         },
-        menu3: {
+        menu: {
             "salad": "raita",
             "price": "700"
         }
     },
 
     beefSteaks: {
-        menu1: {
+        menu: {
             "Food": "kolachi Speacial Steak",
             "price": "800"
         },
-        menu2: {
+        menu: {
             "Food": "mushroom Steak",
             "price": "500"
         },
-        menu3: {
+        menu: {
             "Food": "pepper Steak",
             "price": "900"
         },
 
-        menu4: {
+        menu: {
             "Food": "tarragon Steak",
             "price": "000"
         },
-        menu5: {
+        menu: {
             "Food": "moroccan Steak",
             "price": "800"
         },
-        menu6: {
+        menu: {
             "Food": "kolachi Speacial Steak",
             "price": "500"
         }
     },
 
     soup: {
-        menu1: {
-            "menu": "non-veg soup",
+        menu: {
+            favour: "non-veg soup",
             "price": "500"
         },
-        menu2: {
-            "menu": "corn soup",
+        menu: {
+            favour: "corn soup",
             "price": "500"
         },
-        menu3: {
-            "menu": "chicken noodle soup",
+        menu: {
+            favour: "chicken noodle soup",
             "price": "500"
         },
-        menu4: {
-            "menu": "sea-food soup",
+        menu: {
+            favour: "sea-food soup",
             "price": "500"
         },
-        menu5: {
-            "menu": "wanton soup",
+        menu: {
+            favour: "wanton soup",
             "price": "500"
         },
-        menu6: {
-            menu: "mancahw soup",
+        menu: {
+            favour: "mancahw soup",
             "price": "500"
         },
-        menu7: {
-            "menu": "coriander soup",
+        menu: {
+            favour: "coriander soup",
             "price": "500"
         },
-        menu8: {
-            "menu": "chimni soup",
+        menu: {
+            favour: "chimni soup",
             "price": "500"
         }
     },
@@ -171,12 +171,12 @@ let resturant = {
 
 
     drinks: {
-        menu1: {
-            "menu": "vinegar",
+        menu: {
+            favour: "vinegar",
             "price": "150"
         },
-        menu2: {
-            menu: "alcohol",
+        menu: {
+            favour: "alcohol",
             "price": "500"
         }
     },
